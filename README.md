@@ -8,5 +8,8 @@ My hypothesis is that it will create resolve errors. Maybe the best thing to do 
 I would hope that you'd be able to visually see the forks, but I also want to understand how it all happens within terminal.
 Folders sure. But that'll get complex quick.
 
+Well now isn't this fancy.
+##Can't recall what 2 hashes do.
 Only one way to find out. Viva la git.
 
+And here is something that should save thanks to the nano editor modify buffer.
