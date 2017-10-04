@@ -6,6 +6,9 @@ As part I want to test timing and how it works with code writing, what happens t
 Insert a fine line of text aqui.
 And now to line 7.
 
+Here is some text at line 9 (added from ericgfx with sublime)
+#Here is one hash. Anything?
+
 My hypothesis is that it will create resolve errors. Maybe the best thing to do is research the best way to resolve github sync errors.
 I would hope that you'd be able to visually see the forks, but I also want to understand how it all happens within terminal.
 Folders sure. But that'll get complex quick.
